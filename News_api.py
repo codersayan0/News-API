@@ -6,7 +6,7 @@ import pyttsx3
 from datetime import datetime, timedelta
 
 # API Keys (Replace with your keys)
-NEWS_API_KEY = "e11776fd868741d28e3253d2752f9df1"
+NEWS_API_KEY = "add your API key here"
 
 # Text-to-Speech Engine Setup
 engine = pyttsx3.init()
@@ -114,4 +114,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
